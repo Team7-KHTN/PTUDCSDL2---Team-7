@@ -3,3 +3,5 @@ puts HELLO
 puts NGAN
 
 puts ! IT'S BEAUTIFUL WEATHER TODAY
+
+puts I HAVE TO GO OUT
