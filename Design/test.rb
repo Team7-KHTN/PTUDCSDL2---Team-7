@@ -1,3 +1,5 @@
-puts HELLO
+puts "HELLO"
 
-puts WORLD
+puts "WORLD"
+
+puts "! IT'S BEAUTIFUL WEATHER TODAY"
