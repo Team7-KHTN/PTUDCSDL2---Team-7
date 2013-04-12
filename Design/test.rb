@@ -1,3 +1,5 @@
 puts HELLO
 
-puts WORLD
+puts NGAN
+
+puts ! IT'S BEAUTIFUL WEATHER TODAY
